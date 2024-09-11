@@ -47,3 +47,6 @@ for pergunta in perguntas:
             print('Errou')
 
 print(f'Você acertou {hd_acertos} de {len(perguntas)}.')
+
+
+# https://linktr.ee/edsoncopque
