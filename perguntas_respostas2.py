@@ -49,4 +49,4 @@ for pergunta in perguntas:
 print(f'Você acertou {hd_acertos} de {len(perguntas)}.')
 
 
-# https://linktr.ee/edsoncopque
+# Edson Copque | https://linktr.ee/edsoncopque
